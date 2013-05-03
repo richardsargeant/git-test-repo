@@ -2,15 +2,13 @@ washing powder
 Butter
 Cream
 Wow
-Creamcheese
-<<<<<<< HEAD
+Creamchees
 What do I do now?
 Butter
 Eggs - help
-=======
 Eggs
->>>>>>> alphabetical
 Milk - semi skimmed
 Special Bread
 Pizza
+nothing else
 etc.
